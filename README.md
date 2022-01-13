@@ -6,5 +6,5 @@ Kindly setup R and RStudio for your system by following the steps mentioned [her
 
 ### Setup project
   - Clone this repository using https://github.com/allama008/BoxOfficeAnalysis.git
-  - cd into the folder
+  - `cd` into the folder
   - Install the required packages by running the following command `install.packages(c("FSelector", "e1071", "caret"))`
